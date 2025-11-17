@@ -1,7 +1,7 @@
 #!/bin/bash
 
 return_blue() {
-  echo "red"
+  echo "blue"
 }
 
 return_blue
